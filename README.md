@@ -9,7 +9,7 @@
 |               | July 2        | July 3        | July 4        | July 5       |
 | ------------- | ------------- | ------------- | ------------- | ------------ |
 |               | Day 1         | Day 2         | Day 3         | Day 4        |
-| 9:00 - 10:00  | Welcome       | Systems DD1   | Systems DD2   | Systems DD3  |
+| 09:00 - 10:00 | Welcome       | Systems DD1   | Systems DD2   | Systems DD3  |
 | 10:00 - 10:15 | Morning Tea   | Morning Tea   | Morning Tea   | Morning Tea  |
 | 10:15 - 11:15 | Lectorial A1  | Lectorial B1  | Lectorial A2  | Lectorial B3 |
 | 11:15 - 11:30 | Break         | Break         | Break         | Break        |
