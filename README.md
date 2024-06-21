@@ -54,7 +54,6 @@ Presented by Guodong Shi and Ian Manchester
 * C2: Rigid-Body State Estimation
 * C3: Multi-Joint Robot Control
 
-
 ---
 ## Track D: Robotic Learning
 Presented by Feras Dayoub and Tat-Jun Chin
@@ -62,3 +61,17 @@ Presented by Feras Dayoub and Tat-Jun Chin
 * D1: Why robot learning?
 * D2: Domain adaptation in robot learning
 * D3: Foundation models for robot learning
+
+---
+## Science Deep Dives
+
+* Science DD1: Stefan Leutenegger, Technical University of Munich
+* Science DD2: Dana Kulić, Monash University
+* Science DD3: Tom Drummond, University of Melbourne
+
+---
+## Systems Deep Dives
+
+* Systems DD1: Salah Sukkarieh, University of Sydney 
+* Systems DD2: Stewart Worrall, University of Sydney 
+* Systems DD3: TBC
