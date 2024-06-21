@@ -33,26 +33,32 @@ Links to slide decks and information about the lectures will appear below.
 ## Track A: Sensing and Perception
 Presented by Mitch Bryson, Donald Dansereau, and Thierry Peynot
 
-[A Slides](SensingAndPerception/README.md)
-
+* A1: Sensing Hardware 
+* A2: Localisation and Mapping 
+* A3: Sensor Fusion 
 
 ---
 ## Track B: Reasoning and Planning
 Presented by Rahul Shome, Patrik Haslum, and Hanna Kurniawati
 
-[B Slides](ReasoningAndPlanning/README.md)
+* B1: Basics in reasoning and planning 
+* B2: Manipulation Planning 
+* B3: Planning under Uncertainty 
 
 
 ---
 ## Track C: Control and Estimation
 Presented by Guodong Shi and Ian Manchester
 
-[C Slides](ControlAndEstimation/README.md)
+* C1: Single-Joint Control
+* C2: Rigid-Body State Estimation
+* C3: Multi-Joint Robot Control
 
 
 ---
 ## Track D: Robotic Learning
 Presented by Feras Dayoub and Tat-Jun Chin
 
-[D Slides](RoboticLearning/README.md)
-
+* D1: Why robot learning?
+* D2: Domain adaptation in robot learning
+* D3: Foundation models for robot learning
