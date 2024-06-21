@@ -53,6 +53,6 @@ Presented by Feras Dayoub and Tat-Jun Chin
 | 14:45 - 15:45 | Lab Tour      | Science DD1   | Science DD2   | Science DD3  |
 | 15:45 - 16:00 | Break         | Break         | Break         | Break        |
 | 16:00 - 17:00 | Social Event  | Panel         | Industry Talk | Closing      |
-| 17:00 - 18:00 |               |               |               |              |
+| 17:00 - 18:00 | Social Event  |               |               | Closing      |
 | 18:00 -       | Social Outing | Social Outing | Banquet       |              |
-|               |               |               |               |              |
+|               |               |               | Banquet       |              |
