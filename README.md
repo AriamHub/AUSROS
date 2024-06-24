@@ -10,7 +10,7 @@
 | ------------- | ------------- | ------------- | ------------- | ------------ |
 |               | Day 1         | Day 2         | Day 3         | Day 4        |
 | 09:00 - 10:00 | Welcome       | Systems DD1   | Systems DD2   | Systems DD3  |
-| 10:00 - 10:15 | Morning Tea   | Morning Tea   | Morning Tea   | Morning Tea  |
+| 10:00 - 10:15 | Break         | Break         | Break         | Break        |
 | 10:15 - 11:15 | Lectorial A1  | Lectorial B1  | Lectorial A2  | Lectorial B3 |
 | 11:15 - 11:30 | Break         | Break         | Break         | Break        |
 | 11:30 - 12:30 | Lectorial D1  | Lectorial C2  | Lectorial B2  | Lectorial C3 |
