@@ -19,8 +19,8 @@
 | 14:30 - 14:45 | Break         | Break         | Break         | Break        |
 | 14:45 - 15:45 | Lab Tour      | Science DD1   | Science DD2   | Science DD3  |
 | 15:45 - 16:00 | Break         | Break         | Break         | Break        |
-| 16:00 - 17:00 | Social Event  | Panel         | ROS Hands-on  | Closing      |
-| 17:00 - 18:00 | Social Event  |               |               | Closing      |
+| 16:00 - 17:00 | Social Event: Team Trivia!  | Panel         | ROS Hands-on  | Closing      |
+| 17:00 - 18:00 | Social Event: Team Trivia!  |               |               | Closing      |
 | 18:00 -       | Social Outing | Social Outing | Banquet       |              |
 |               |               |               | Banquet       |              |
 
