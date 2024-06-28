@@ -38,7 +38,7 @@ On Day 3 John Vial will lead a hands-on activity with ROS. Ahead of the this ses
 ## Track A: Sensing and Perception
 Presented by Mitch Bryson, Donald Dansereau, and Thierry Peynot
 
-* A1: Sensing Hardware 
+* A1: [Sensors](SensingAndPerception/LecA1-Sensors.pdf)
 * A2: Localisation and Mapping 
 * A3: Sensor Fusion 
 
