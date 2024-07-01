@@ -25,6 +25,11 @@
 |               |               |               | Banquet       |              |
 
 ---
+# Location
+
+Please see the [AUSROS Website](https://ariamhub.com/event/ausros/), a map to the lecture hall location is under "Attending".
+
+---
 # Lectures
 
 Links to slide decks and information about the lectures will appear below.
