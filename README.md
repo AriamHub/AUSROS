@@ -60,7 +60,7 @@ Presented by Rahul Shome, Patrik Haslum, and Hanna Kurniawati
 ## Track C: Control and Estimation
 Presented by Guodong Shi and Ian Manchester
 
-* C1: Single-Joint Control
+* C1: [Single-Joint Control](ControlAndEstimation/LecC1-Control.pdf)
 * C2: Rigid-Body State Estimation
 * C3: Multi-Joint Robot Control
 
