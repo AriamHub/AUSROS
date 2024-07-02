@@ -77,7 +77,7 @@ Presented by Feras Dayoub and Tat-Jun Chin
 
 * Science DD1: Stefan Leutenegger, Technical University of Munich
 * Science DD2: Dana Kulić, Monash University
-* Science DD3: Tom Drummond, University of Melbourne
+* Science DD3: [Uncertainty](DeepDives/DD3-TomDrummond-Uncertainty.pdf), Tom Drummond, University of Melbourne
 
 ---
 ## Systems Deep Dives
