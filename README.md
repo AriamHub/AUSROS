@@ -51,7 +51,7 @@ Presented by Mitch Bryson, Donald Dansereau, and Thierry Peynot
 ## Track B: Reasoning and Planning
 Presented by Rahul Shome, Patrik Haslum, and Hanna Kurniawati
 
-* B1: [Basics in reasoning and planning ](ReasoningAndPlanning/B1.pdf)
+* B1: [Basics in reasoning and planning](ReasoningAndPlanning/B1.pdf)
 * B2: Manipulation Planning 
 * B3: Planning under Uncertainty 
 
