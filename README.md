@@ -44,7 +44,7 @@ On Day 3 John Vial will lead a hands-on activity with ROS. Ahead of the this ses
 Presented by Mitch Bryson, Donald Dansereau, and Thierry Peynot
 
 * A1: [Sensors](SensingAndPerception/LecA1-Sensors.pdf)
-* A2: Localisation and Mapping 
+* A2: [Localisation and Mapping](SensingAndPerception/AUSROS_localmapping_2024_slides.pdf)
 * A3: Sensor Fusion 
 
 ---
