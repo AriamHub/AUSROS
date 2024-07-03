@@ -44,14 +44,14 @@ On Day 3 John Vial will lead a hands-on activity with ROS. Ahead of the this ses
 Presented by Mitch Bryson, Donald Dansereau, and Thierry Peynot
 
 * A1: [Sensors](SensingAndPerception/LecA1-Sensors.pdf)
-* A2: Localisation and Mapping 
+* A2: [Localisation and Mapping](SensingAndPerception/AUSROS_localmapping_2024_slides.pdf)
 * A3: [Sensor Fusion](SensingAndPerception/LecA3-SensorFusion.pdf)
 
 ---
 ## Track B: Reasoning and Planning
 Presented by Rahul Shome, Patrik Haslum, and Hanna Kurniawati
 
-* B1: Basics in reasoning and planning 
+* B1: [Basics in reasoning and planning](ReasoningAndPlanning/B1.pdf)
 * B2: Manipulation Planning 
 * B3: Planning under Uncertainty 
 
@@ -75,7 +75,7 @@ Presented by Feras Dayoub and Tat-Jun Chin
 ---
 ## Science Deep Dives
 
-* Science DD1: [Drones in Cluttered, Open-Ended Environments](ScienceDeepDives/DD1-StefanLeutenegger-Drones.pdf), Stefan Leutenegger, Technical University of Munich
+* Science DD1: [Drones in Cluttered, Open-Ended Environments](ScienceDeepDives/DD1-StefanLeutenegger-Drones.pdf), Stefan Leutenegger, TUM
 * Science DD2: Dana Kulić, Monash University
 * Science DD3: [Uncertainty](ScienceDeepDives/DD3-TomDrummond-Uncertainty.pdf), Tom Drummond, University of Melbourne
 
