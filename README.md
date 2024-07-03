@@ -45,7 +45,7 @@ Presented by Mitch Bryson, Donald Dansereau, and Thierry Peynot
 
 * A1: [Sensors](SensingAndPerception/LecA1-Sensors.pdf)
 * A2: Localisation and Mapping 
-* A3: Sensor Fusion 
+* A3: [Sensor Fusion](SensingAndPerception/LecA3-SensorFusion.pdf)
 
 ---
 ## Track B: Reasoning and Planning
