@@ -37,7 +37,7 @@ Links to slide decks and information about the lectures will appear below.
 ---
 # ROS Hands-On
 
-On Day 3 John Vial will lead a hands-on activity with ROS. Ahead of the this session students are asked to follow the setup instructions in the top-level README at the [Start Creating Robots](https://github.com/johnny555/start-creating-robots) github site.
+On Day 3 John Vial will lead a [hands-on activity with ROS](ROSHandsOn/ROSHandsOnWorkshop.pdf). Ahead of the this session students are asked to follow the setup instructions in the top-level README at the [Start Creating Robots](https://github.com/johnny555/start-creating-robots) github site.
 
 ---
 ## Track A: Sensing and Perception
