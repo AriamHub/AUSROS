@@ -76,7 +76,7 @@ Presented by Feras Dayoub and Tat-Jun Chin
 ## Science Deep Dives
 
 * Science DD1: [Drones in Cluttered, Open-Ended Environments](ScienceDeepDives/DD1-StefanLeutenegger-Drones.pdf), Stefan Leutenegger, TUM
-* Science DD2: Dana Kulić, Monash University
+* Science DD2: [Human-Robot Interaction](ScienceDeepDives/DD2-DanaKulic-HumanRobotInteraction.pdf), Dana Kulić, Monash University
 * Science DD3: [Uncertainty](ScienceDeepDives/DD3-TomDrummond-Uncertainty.pdf), Tom Drummond, University of Melbourne
 
 ---
