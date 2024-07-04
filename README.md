@@ -61,7 +61,7 @@ Presented by Rahul Shome, Patrik Haslum, and Hanna Kurniawati
 Presented by Guodong Shi and Ian Manchester
 
 * C1: [Single-Joint Control](ControlAndEstimation/LecC1-Control.pdf) and Simulink example [flexible_joint.slx](ControlAndEstimation/flexible_joint.slx)
-* C2: Rigid-Body State Estimation
+* C2: [Rigid-Body State Estimation](ControlAndEstimation/LecC2-Estimation.pdf)
 * C3: Multi-Joint Robot Control
 
 ---
