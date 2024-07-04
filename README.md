@@ -84,4 +84,4 @@ Presented by Feras Dayoub and Tat-Jun Chin
 
 * Systems DD1: [Agriculutral Robotics](SystemsDeepDives/DD1-SalahSukkarieh-Agriculture.pdf), Salah Sukkarieh, University of Sydney 
 * Systems DD2: [Intelligent Transportation Systems](SystemsDeepDives/DD2-StewartWorrall-IntelligentTransportSystems.pdf), Stewart Worrall, University of Sydney 
-* Systems DD3: Gideon Billings and Lachlan Toohey, University of Sydney
+* Systems DD3: [Marine Robotics](SystemsDeepDives/DD3-TooheyAndBillings-Marine.pdf), Gideon Billings and Lachlan Toohey, University of Sydney
