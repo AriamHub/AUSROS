@@ -62,7 +62,7 @@ Presented by Guodong Shi and Ian Manchester
 
 * C1: [Single-Joint Control](ControlAndEstimation/LecC1-Control.pdf) and Simulink example [flexible_joint.slx](ControlAndEstimation/flexible_joint.slx)
 * C2: [Rigid-Body State Estimation](ControlAndEstimation/LecC2-Estimation.pdf)
-* C3: Multi-Joint Robot Control
+* C3: [Multi-Body Robot Control](ControlAndEstimation/LecC3-MultiBody.pdf)
 
 ---
 ## Track D: Robotic Learning
