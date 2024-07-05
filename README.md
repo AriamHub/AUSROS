@@ -53,7 +53,7 @@ Presented by Rahul Shome, Patrik Haslum, and Hanna Kurniawati
 
 * B1: [Basics in reasoning and planning](ReasoningAndPlanning/B1.pdf)
 * B2: Manipulation Planning 
-* B3: Planning under Uncertainty 
+* B3: [Planning under Uncertainty](ReasoningAndPlanning/B3.pdf)
 
 
 ---
@@ -70,7 +70,8 @@ Presented by Feras Dayoub and Tat-Jun Chin
 
 * D1: Why robot learning?
 * D2: Domain adaptation in robot learning
-* D3: Foundation models for robot learning
+* D3: Foundation models for robot learni
+ng
 
 ---
 ## Science Deep Dives
