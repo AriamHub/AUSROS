@@ -52,7 +52,7 @@ Presented by Mitch Bryson, Donald Dansereau, and Thierry Peynot
 Presented by Rahul Shome, Patrik Haslum, and Hanna Kurniawati
 
 * B1: [Basics in reasoning and planning](ReasoningAndPlanning/B1.pdf)
-* B2: Manipulation Planning 
+* B2: [Manipulation Planning](ReasoningAndPlanning/B2.pdf)
 * B3: [Planning under Uncertainty](ReasoningAndPlanning/B3.pdf)
 
 
@@ -68,10 +68,9 @@ Presented by Guodong Shi and Ian Manchester
 ## Track D: Robotic Learning
 Presented by Feras Dayoub and Tat-Jun Chin
 
-* D1: Why robot learning?
-* D2: Domain adaptation in robot learning
-* D3: Foundation models for robot learni
-ng
+* D1: [Why Simulation in Robot Learning?](RoboticLearning/D1.pdf)
+* D2: [Bridging the Reality Gap](RoboticLearning/D2.pdf)
+* D3: [Foundation Mdels in Robotics](RoboticLearning/D3.pdf)
 
 ---
 ## Science Deep Dives
